@@ -1,6 +1,6 @@
 import this
 
-import antigravity
+import antigravity  # This opens a comic page
 
 import __hello__
 
